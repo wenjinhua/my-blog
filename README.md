@@ -1,2 +1,4 @@
-# sets-of-react
-这是一个关于react的知识点分析，持续更新
+前端学习杂记
+# 请实现一个XXX
+## 精读：实现一个promise
+
