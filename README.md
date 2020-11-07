@@ -4,3 +4,4 @@
 ## [3.详解js的this指向问题](https://github.com/wenjinhua/my-blog/issues/3)
 ## [4. h5 video踩坑记录](https://github.com/wenjinhua/my-blog/issues/4)
 ## [5. 移动端适配知识点梳理-part one](https://github.com/wenjinhua/my-blog/issues/5)
+## [6. 精读：three.js实现全景图](https://github.com/wenjinhua/my-blog/issues/6)
